@@ -12,9 +12,9 @@ Age Distribution of Signers of the US Declaration of Independence
 |    26    |36.5|  44 | 44.27|  50 |    70   |
 
 In conclusion, we see that most founding fathers were middle aged, with half 
-being between 36 and 44 years of age. A quarter were 36 or younger, which is fairly young
-in my opinion. At least one founding father was 26 years old at signing, quite an 
-accomplishment for that age. In the original data we see that James Monroe, the 4th
+being between 36 and 44 years of age. A quarter were 36 or younger, which is fairly young.
+At least one founding father was 26 years old at signing, quite an 
+accomplishment for that age. In the original data we see that James Monroe, the 5th
 US president, was 18 at the age of signing, however, he himself did not sign it,
 according to the data from the cited websited.
 
